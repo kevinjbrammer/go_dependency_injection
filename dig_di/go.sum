@@ -1,0 +1,10 @@
+github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
+github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/mattn/go-sqlite3 v1.11.0 h1:LDdKkqtYlom37fkvqs8rMPFKAMe8+SgjbwZ6ex1/A/Q=
+github.com/mattn/go-sqlite3 v1.11.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/uber-go/dig v1.7.0 h1:ISSfiGhmOJ+S4kT2lGyvzJkqJutOCVrbNHrkLHRodTY=
+github.com/uber-go/dig v1.7.0/go.mod h1:/aZLckt93W457CFib8vEjuhyNUj+8RLp1npcT5tDszw=
+github.com/uber-go/dig v1.7.1-0.20190614173321-8a567bf6562e h1:+WAv8BxnBTSQ57qHrMvNhLIAo4oFyYKMCH8pdZGzBpc=
+github.com/uber-go/dig v1.7.1-0.20190614173321-8a567bf6562e/go.mod h1:/aZLckt93W457CFib8vEjuhyNUj+8RLp1npcT5tDszw=
+go.uber.org/dig v1.7.0 h1:E5/L92iQTNJTjfgJF2KgU+/JpMaiuvK2DHLBj0+kSZk=
+go.uber.org/dig v1.7.0/go.mod h1:z+dSd2TP9Usi48jL8M3v63iSBVkiwtVyMKxMZYYauPg=
